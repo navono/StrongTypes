@@ -17,6 +17,7 @@ private:
 	Height height_;
 };
 
+
 int main()
 {
 	Rectangle rec(Width(10), Height(12));

@@ -11,3 +11,4 @@ endif(MSVC)
 
 add_subdirectory(StrongTypedConstructors)
 add_subdirectory(StrongTypedInterfaces)
+add_subdirectory(StrongTypedReference)
